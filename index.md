@@ -1,5 +1,7 @@
 ## Welcome to my homepage
 
+www.illinoiscenterofexcellence.org
+
 You can use the [editor on GitHub](https://github.com/mekindler/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 This is my homepage and I am trying this out.
